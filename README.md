@@ -23,9 +23,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=AhmedBilalSSG&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+![images](https://github.com/AhmedBilalSSG/AhmedBilalSSG/assets/110194946/e7a00748-66d8-4363-a56e-ff6278f18364)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AhmedBilalSSG&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
