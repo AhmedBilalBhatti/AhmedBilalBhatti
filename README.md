@@ -12,7 +12,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=AhmedBilalSSG&theme=merko&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AhmedBilalSSG&theme=merko&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedBilalSSG&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-contributor-stats.vercel.app/api?username=AhmedBilalSSG&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AhmedBilalSSG&theme=radical&no-frame=false&no-bg=false&margin-w=9)
 
@@ -20,7 +20,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-
+![](https://github-contributor-stats.vercel.app/api?username=AhmedBilalSSG&limit=5&theme=merko&hide_all_yearly_contributions=true)
 
 ### 😂 Dev Meme
 ![images](https://github.com/AhmedBilalSSG/AhmedBilalSSG/assets/110194946/ef0d745e-f7bc-4917-8d6a-ac64dc46ade8)
