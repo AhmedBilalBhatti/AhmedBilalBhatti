@@ -21,7 +21,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AhmedBilalSSG&limit=5&theme=merko&hide_all_yearly_contributions=true)
-![image](https://github.com/AhmedBilalSSG/AhmedBilalSSG/assets/110194946/d0f6d9c7-c368-463b-92f1-f989eb24847c)
 
 
 ### 😂 Dev Meme
