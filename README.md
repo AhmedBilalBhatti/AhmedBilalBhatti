@@ -1,4 +1,4 @@
-![github-contribution-grid-snake-dark](https://github.com/AhmedBilalSSG/AhmedBilalSSG/assets/110194946/aa28a43a-0bd6-48e9-93f5-44c7d895f23c)# 💫 About Me:
+# 💫 About Me:
 🎓 Degree in AI with a strong academic background<br>💼 Extensive industry experience in various AI domains<br>     🧠 Expertise in machine learning, deep learning, and computer vision<br>🌐 Proficient in web integrations using Flask and Django<br>💻 Developed web applications incorporating AI capabilities<br>🚀 Deployed AI solutions to solve real-world challenges<br>📈 Stayed informed about the latest industry trends<br>💡 Delivered innovative and effective AI solutions for diverse applications
 
 
@@ -25,7 +25,7 @@
 ### 😂 Dev Meme
 ![images](https://github.com/AhmedBilalSSG/AhmedBilalSSG/assets/110194946/ef0d745e-f7bc-4917-8d6a-ac64dc46ade8)
 
-![image](https://github.com/AhmedBilalSSG/AhmedBilalSSG/assets/110194946/375e3d4f-957b-4c8b-8f4e-5d8b3968cc0e)
+![github-contribution-grid-snake-dark](https://github.com/AhmedBilalSSG/AhmedBilalSSG/assets/110194946/aa28a43a-0bd6-48e9-93f5-44c7d895f23c)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AhmedBilalSSG&icon=0&color=1)](https://visitcount.itsvg.in)
