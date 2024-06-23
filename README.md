@@ -19,7 +19,8 @@
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+<!-- ### 🔝 Top Contributed Repo-->
+### 🔝 Top Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedBilalSSG&show_icons=true&hide_border=false&theme=merko&count_private=true&include_all_commits=true&layout=compact)
 
 ### 😂 Dev Meme
