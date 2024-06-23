@@ -16,15 +16,13 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AhmedBilalSSG&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AhmedBilalSSG&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-
-![0_GuSmU6_NgtC8vMKN](https://github.com/AhmedBilalSSG/AhmedBilalSSG/assets/110194946/1b810f96-6414-43e6-8f8d-4f5954fd4d74)
+### 😂 Dev Meme
 ![image](https://github.com/AhmedBilalSSG/AhmedBilalSSG/assets/110194946/d44eec76-5043-433e-96c3-015eab4576b6)
 
 ---
