@@ -1,5 +1,6 @@
 # 💫 About Me:
-🎓 Degree in AI with a strong academic background<br>💼 Extensive industry experience in various AI domains<br>     🧠 Expertise in machine learning, deep learning, and computer vision<br>🌐 Proficient in web integrations using Flask and Django<br>💻 Developed web applications incorporating AI capabilities<br>🚀 Deployed AI solutions to solve real-world challenges<br>📈 Stayed informed about the latest industry trends<br>💡 Delivered innovative and effective AI solutions for diverse applications
+🎓 Degree in AI with a strong academic background<br>💼 Extensive industry experience in various AI domains<br>     🧠 Expertise in machine learning, deep learning, and computer vision<br>🌐 Proficient in web integrations using Flask and Django<br>💻 Developed web applications incorporating AI capabilities<br>🚀 Deployed AI solutions to solve real-world challenges<br>📈 Stayed informed about the latest industry trends<br>💡 Delivered innovative and effective AI solutions for diverse applications ![image](https://github.com/AhmedBilalSSG/AhmedBilalSSG/assets/110194946/c47c7891-494d-4ec8-ac5d-b7c98b10c68a)
+
 
 
 ## 🌐 Socials:
