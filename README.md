@@ -1,4 +1,4 @@
-![github-contribution-grid-snake-dark](https://github.com/AhmedBilalSSG/AhmedBilalSSG/assets/110194946/80bb0b05-26e1-4ccb-b455-58a2dc826394)# 💫 About Me:
+# 💫 About Me:
 🎓 Degree in AI with a strong academic background<br>💼 Extensive industry experience in various AI domains<br>     🧠 Expertise in machine learning, deep learning, and computer vision<br>🌐 Proficient in web integrations using Flask and Django<br>💻 Developed web applications incorporating AI capabilities<br>🚀 Deployed AI solutions to solve real-world challenges<br>📈 Stayed informed about the latest industry trends<br>💡 Delivered innovative and effective AI solutions for diverse applications
 
 
@@ -21,7 +21,7 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AhmedBilalSSG&limit=5&theme=merko&hide_all_yearly_contributions=true)
-
+![github-contribution-grid-snake-dark](https://github.com/AhmedBilalSSG/AhmedBilalSSG/assets/110194946/80bb0b05-26e1-4ccb-b455-58a2dc826394)
 
 ### 😂 Dev Meme
 ![images](https://github.com/AhmedBilalSSG/AhmedBilalSSG/assets/110194946/ef0d745e-f7bc-4917-8d6a-ac64dc46ade8)
