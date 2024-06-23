@@ -11,7 +11,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AhmedBilalSSG&theme=merko&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AhmedBilalSSG&theme=merko&hide_border=true)
-![]([https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedBilalSSG&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact](https://github-readme-stats.vercel.app/api?username=AhmedBilalSSG&show_icons=true&hide_border=false&theme=merko&hidecount_private=true&include_all_commits=true))
+![]([https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedBilalSSG&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact])
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AhmedBilalSSG&theme=radical&no-frame=false&no-bg=false&margin-w=9)
