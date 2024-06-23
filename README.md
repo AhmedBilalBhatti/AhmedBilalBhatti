@@ -8,7 +8,7 @@
   💻 Developed web applications incorporating AI capabilities<br>
   🚀 Deployed AI solutions to solve real-world challenges<br>
   📈 Stayed informed about the latest industry trends<br>
-  💡 Delivered innovative and effective AI solutions for diverse applications
+  💡 Delivered innovative and effective AI solutions for diverse applications<br>
 
 
 
