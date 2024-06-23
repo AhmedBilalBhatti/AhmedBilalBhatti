@@ -20,7 +20,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AhmedBilalSSG&limit=5&theme=merko&hide_all_yearly_contributions=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedBilalSSG&show_icons=true&hide_border=false&theme=merko&count_private=true&include_all_commits=true)
 ![github-contribution-grid-snake-dark](https://github.com/AhmedBilalSSG/AhmedBilalSSG/assets/110194946/80bb0b05-26e1-4ccb-b455-58a2dc826394)
 
 ### 😂 Dev Meme
