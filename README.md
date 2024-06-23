@@ -1,6 +1,6 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;">
 # 💫 About Me:
-<p align="center">
+<p align="align-left">
   🎓 Degree in AI with a strong academic background<br>
   💼 Extensive industry experience in various AI domains<br>
   🧠 Expertise in machine learning, deep learning, and computer vision<br>
