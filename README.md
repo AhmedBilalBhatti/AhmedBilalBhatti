@@ -26,6 +26,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AhmedBilalBhatti&theme=merko&hide_border=true) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedBilalBhatti&show_icons=true&hide_border=false&theme=merko&count_private=true&include_all_commits=true&layout=compact)
 
+![](https://github-readme-stats.vercel.app/api?username=AhmedBilalBhatti&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AhmedBilalBhatti&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedBilalBhatti&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AhmedBilalBhatti&theme=radical&no-frame=false&no-bg=false&margin-w=9)
 
